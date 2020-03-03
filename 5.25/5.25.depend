@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1582255177 source:f:\困困大人的其他东西\cpp\5.25\main.cpp
+	<iostream>
+	<iomanip>
+	"reverse.h"
+
+1582210387 f:\困困大人的其他东西\cpp\5.25\reverse.h
+	<math.h>
+
+1582435109 source:d:\cplusplus\5.25\main.cpp
+	<iostream>
+	<iomanip>
+	"reverse.h"
+
+1582210387 d:\cplusplus\5.25\reverse.h
+	<math.h>
+
